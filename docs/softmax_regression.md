@@ -5,7 +5,7 @@ Softmax regression, also known as multinomial logistic regression, is a classifi
 The softmax function is used to compute the probabilities of each class. It takes as input a vector of scores (often called logits) and normalizes them into a probability distribution. The formula for softmax function for a class \( j \) is:
 
 $
-\Large P(y = j | x) = \frac{e^{z_j}}{\sum_{k=1}^{K} e^{z_k}}
+P(y = j | x) = \frac{e^{z_j}}{\sum_{k=1}^{K} e^{z_k}}
 $
 
 Where:
