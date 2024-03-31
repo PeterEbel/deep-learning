@@ -4,7 +4,7 @@ The estimated population variance is typically calculated using sample data. It'
 
 $
 \begin{aligned}
-&\Large s^2 = \frac{1}{n-1} \sum_{i=1}^{n} (x_i - \bar{x})^2
+&\Large s^2 = \frac{1}{n-1} \sum_{i=1}^{n} (x_i - \bar{x})^2 \\
 \end{aligned}
 $
 
@@ -19,7 +19,7 @@ After calculating the estimated population variance $s^2$, the estimated populat
 
 $
 \begin{aligned}
-&\Large s = \sqrt{s^2}
+&\Large s = \sqrt{s^2} \\
 \end{aligned}
 $
 
