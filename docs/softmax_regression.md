@@ -1,4 +1,4 @@
-## Softmax regression
+### Softmax regression
 
 Softmax regression, also known as multinomial logistic regression, is a classification algorithm used for predicting the probability of a categorical dependent variable with more than two categories. It is an extension of logistic regression, which is used for binary classification problems. In softmax regression, the algorithm predicts the probability distribution of a categorical outcome across all possible categories. It computes the probabilities of each category and assigns the observation to the category with the highest probability. The probabilities computed by softmax regression sum up to one, making it suitable for multiclass classification tasks.
 

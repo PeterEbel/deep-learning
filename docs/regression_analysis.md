@@ -1,4 +1,4 @@
-## Regression Analysis
+### Regression Analysis
 
 Regression analysis is a statistical method used to understand and quantify the relationship between a dependent variable and one or more independent variables. In simpler terms, it's like trying to find out how changes in one thing (independent variable) are associated with changes in another thing (dependent variable). Imagine you want to know how the price of a house (dependent variable) changes based on factors like the size of the house, the number of bedrooms, and the location (independent variables). Regression analysis helps you figure out how much each of these factors influences the house price.
 
