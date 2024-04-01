@@ -2,11 +2,11 @@
 
 The population variance (σ²) is calculated using the following formula:
 
-$
+$$
 \begin{aligned}
 \Large\sigma^2 = \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2
 \end{aligned}
-$
+$$
 
 Where:
 - $N$ is the size of the population (the total number of observations).
