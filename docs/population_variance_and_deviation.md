@@ -29,10 +29,10 @@ The population standard deviation (σ) is simply the square root of the populati
 
 Mathematically, it's represented as:
 
-$
+$$
 \begin{aligned}
 \Large\sigma = \sqrt{\sigma^2}
 \end{aligned}
-$
+$$
 
 So, if you already have the population variance (\( \sigma^2 \)), you can find the population standard deviation $\sigma$ by taking the square root of the variance. The population standard deviation measures the dispersion or spread of values in the population, just like the variance, but it's expressed in the same units as the original data, rather than squared units.

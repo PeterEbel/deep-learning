@@ -2,11 +2,11 @@
 
 The estimated population variance is typically calculated using sample data. It's an estimate of the population variance based on information obtained from a sample of the population. The formula for estimating the population variance from sample data is as follows:
 
-$
+$$
 \begin{aligned}
 \Large s^2 = \frac{1}{n-1} \sum_{i=1}^{n} (x_i - \bar{x})^2
 \end{aligned}
-$
+$$
 
 Where:
 - $n$ is the size of the sample (the number of observations in the sample).
@@ -17,11 +17,11 @@ This formula is similar to the one for calculating the population variance, but 
 
 After calculating the estimated population variance $s^2$, the estimated population standard deviation $s$ can be found by taking the square root of the estimated population variance.
 
-$
+$$
 \begin{aligned}
 \Large s = \sqrt{s^2}
 \end{aligned}
-$
+$$
 
 It's important to note that because the estimated population variance and standard deviation are based on sample data, they are estimates of the true population parameters and may not be exactly equal to the population variance and standard deviation. However, as the sample size increases, these estimates tend to get closer to the true population parameters.
 
