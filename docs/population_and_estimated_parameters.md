@@ -1,5 +1,7 @@
 ### Population and population estimates
 
+[Back to Statistic Fundamentals](statistic_fundamentals.md)
+
 In statistics, the term "population" refers to the entire group of individuals, items, or observations about which you want to draw conclusions. It's the complete set of all possible elements that you're interested in studying.
 
 For example:
