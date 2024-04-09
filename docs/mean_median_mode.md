@@ -1,5 +1,7 @@
 ### The mean,median and mode
 
+[Back to Statistic Fundamentals](statistic_fundamentals.md)
+
 The mean, median, and mode are all measures of central tendency in statistics, but they represent slightly different concepts:
 
 1. **Mean:** The mean is also known as the average. It's calculated by adding up all the numbers in a dataset and then dividing by the total number of numbers. The mean is sensitive to extreme values, meaning if there are outliers (extreme values), they can greatly affect the mean. For example, in the dataset [1, 2, 3, 4, 100], the mean is significantly influenced by the outlier 100.

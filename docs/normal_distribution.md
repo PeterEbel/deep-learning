@@ -1,5 +1,7 @@
 ### Normal distribution
 
+[Back to Statistic Fundamentals](statistic_fundamentals.md)
+
 Normal distribution, also known as the bell curve, is a way to describe how numbers are spread out in a dataset. It's called "normal" because it's a very common pattern that shows up in many natural phenomena. Imagine plotting all the numbers from your dataset on a graph. The normal distribution looks like a symmetrical bell shape, with the peak at the average (or mean) value.
 
 Here's how it works:

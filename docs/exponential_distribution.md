@@ -1,5 +1,7 @@
 ### Exponential distribution:
 
+[Back to Statistic Fundamentals](statistic_fundamentals.md)
+
 Imagine you're waiting for something to happen—maybe you're waiting for a bus to arrive, or for a lightbulb to burn out. The exponential distribution helps us understand how long we might have to wait for that event to occur.
 
 Here's how it works:
