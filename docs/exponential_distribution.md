@@ -1,4 +1,4 @@
-### Exponential distribution:
+### Exponential distribution
 
 [Back to Statistic Fundamentals](statistic_fundamentals.md)
 
